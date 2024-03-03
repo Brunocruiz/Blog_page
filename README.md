@@ -2,9 +2,6 @@
   Blog Page 📟
 </h1>
 <br>
-<p>
-<img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
 
 
 ## 📑 Layout
@@ -44,4 +41,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-Feito por Bruno Martins da Cruz 😁 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+Feito por Bruno Martins da Cruz 😁 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
